@@ -1,0 +1,1809 @@
+Type --> earthquake
+Time --> 2015-02-05T09:40:30.000Z
+Latitude --> 59.2816
+Longitude --> -152.626
+Mag --> 2.1
+Place --> 71km SW of Anchor Point, Alaska
+MagType ---> ml
+Depth--> 63.7
+
+Type --> earthquake
+Time --> 2015-02-05T09:33:44.040Z
+Latitude --> 39.6212
+Longitude --> -119.339
+Mag --> 1.45
+Place --> 7km W of Fernley, Nevada
+MagType ---> ml
+Depth--> 6.02
+
+Type --> earthquake
+Time --> 2015-02-05T09:29:22.000Z
+Latitude --> 61.4162
+Longitude --> -146.527
+Mag --> 1.3
+Place --> 33km NNW of Valdez, Alaska
+MagType ---> ml
+Depth--> 20.5
+
+Type --> earthquake
+Time --> 2015-02-05T09:18:36.000Z
+Latitude --> 61.8273
+Longitude --> -148.516
+Mag --> 1
+Place --> 17km ENE of Sutton-Alpine, Alaska
+MagType ---> ml
+Depth--> 16
+
+Type --> earthquake
+Time --> 2015-02-05T09:12:41.000Z
+Latitude --> 65.0879
+Longitude --> -148.603
+Mag --> 0.6
+Place --> 38km NW of Ester, Alaska
+MagType ---> ml
+Depth--> 6.4
+
+Type --> earthquake
+Time --> 2015-02-05T09:12:16.490Z
+Latitude --> 37.446
+Longitude --> -117.398
+Mag --> 1.35
+Place --> 32km SSW of Goldfield, Nevada
+MagType ---> ml
+Depth--> 4.08
+
+Type --> earthquake
+Time --> 2015-02-05T09:05:24.510Z
+Latitude --> 38.8247
+Longitude --> -122.828
+Mag --> 0.45
+Place --> 8km NW of The Geysers, California
+MagType ---> md
+Depth--> 3.25
+
+Type --> earthquake
+Time --> 2015-02-05T09:00:55.000Z
+Latitude --> 64.7919
+Longitude --> -149.231
+Mag --> 0.8
+Place --> 24km NNW of North Nenana, Alaska
+MagType ---> ml
+Depth--> 23.1
+
+Type --> earthquake
+Time --> 2015-02-05T08:51:26.160Z
+Latitude --> 38.8075
+Longitude --> -122.816
+Mag --> 0.55
+Place --> 6km WNW of The Geysers, California
+MagType ---> md
+Depth--> 2.77
+
+Type --> earthquake
+Time --> 2015-02-05T08:25:51.770Z
+Latitude --> 32.7348
+Longitude --> -116.214
+Mag --> 1.49
+Place --> 21km W of Ocotillo, California
+MagType ---> ml
+Depth--> 1.1
+
+Type --> earthquake
+Time --> 2015-02-05T08:23:02.000Z
+Latitude --> 63.5479
+Longitude --> -151.022
+Mag --> 0.8
+Place --> 104km W of Cantwell, Alaska
+MagType ---> ml
+Depth--> 7.6
+
+Type --> earthquake
+Time --> 2015-02-05T08:04:02.250Z
+Latitude --> 38.8257
+Longitude --> -122.829
+Mag --> 0.56
+Place --> 8km NW of The Geysers, California
+MagType ---> md
+Depth--> 2.49
+
+Type --> earthquake
+Time --> 2015-02-05T07:42:53.560Z
+Latitude --> 5.2804
+Longitude --> -82.6657
+Mag --> 4.6
+Place --> South of Panama
+MagType ---> mb
+Depth--> 10
+
+Type --> earthquake
+Time --> 2015-02-05T07:41:24.700Z
+Latitude --> 36.5353
+Longitude --> -117.098
+Mag --> 1.41
+Place --> 51km SW of Beatty, Nevada
+MagType ---> ml
+Depth--> 15.28
+
+Type --> earthquake
+Time --> 2015-02-05T07:27:52.420Z
+Latitude --> 32.9367
+Longitude --> -116.334
+Mag --> 1.02
+Place --> 22km NE of Pine Valley, California
+MagType ---> ml
+Depth--> 11.04
+
+Type --> earthquake
+Time --> 2015-02-05T07:27:26.820Z
+Latitude --> 38.7642
+Longitude --> -112.11
+Mag --> 3.05
+Place --> 4km NW of Richfield, Utah
+MagType ---> ml
+Depth--> 7.44
+
+Type --> earthquake
+Time --> 2015-02-05T07:06:47.500Z
+Latitude --> 36.5222
+Longitude --> -98.1845
+Mag --> 3.8
+Place --> 8km ESE of Helena, Oklahoma
+MagType ---> mb_lg
+Depth--> 6.14
+
+Type --> earthquake
+Time --> 2015-02-05T06:40:50.000Z
+Latitude --> 62.9369
+Longitude --> -150.585
+Mag --> 1.1
+Place --> 72km NNW of Talkeetna, Alaska
+MagType ---> ml
+Depth--> 34.7
+
+Type --> earthquake
+Time --> 2015-02-05T06:38:35.000Z
+Latitude --> 65.1564
+Longitude --> -149.109
+Mag --> 0.8
+Place --> 62km NW of Ester, Alaska
+MagType ---> ml
+Depth--> 8.5
+
+Type --> earthquake
+Time --> 2015-02-05T06:36:46.790Z
+Latitude --> 38.8147
+Longitude --> -122.829
+Mag --> 0.87
+Place --> 7km WNW of The Geysers, California
+MagType ---> md
+Depth--> 2.89
+
+Type --> earthquake
+Time --> 2015-02-05T06:21:21.530Z
+Latitude --> 33.6128
+Longitude --> -116.81
+Mag --> 0.15
+Place --> 14km WNW of Anza, California
+MagType ---> ml
+Depth--> 10.15
+
+Type --> earthquake
+Time --> 2015-02-05T06:16:46.370Z
+Latitude --> 42.7761
+Longitude --> 26.19
+Mag --> 4.2
+Place --> 15km NW of Sliven, Bulgaria
+MagType ---> mb
+Depth--> 10
+
+Type --> earthquake
+Time --> 2015-02-05T05:58:48.300Z
+Latitude --> 18.9815
+Longitude --> -67.8683
+Mag --> 3
+Place --> 71km NE of Punta Cana, Dominican Republic
+MagType ---> Md
+Depth--> 53
+
+Type --> earthquake
+Time --> 2015-02-05T05:56:25.576Z
+Latitude --> 38.0212
+Longitude --> -115.823
+Mag --> 1.48
+Place --> 51km ESE of Warm Springs, Nevada
+MagType ---> ml
+Depth--> 0
+
+Type --> earthquake
+Time --> 2015-02-05T05:55:47.000Z
+Latitude --> 60.9347
+Longitude --> -152.296
+Mag --> 1.7
+Place --> 55km NNE of Redoubt Volcano, Alaska
+MagType ---> ml
+Depth--> 24
+
+Type --> earthquake
+Time --> 2015-02-05T05:38:57.770Z
+Latitude --> 8.2514
+Longitude --> -72.0767
+Mag --> 5
+Place --> 2km SW of Umuquena, Venezuela
+MagType ---> mb
+Depth--> 10
+
+Type --> earthquake
+Time --> 2015-02-05T05:35:00.000Z
+Latitude --> 64.9012
+Longitude --> -147.587
+Mag --> 0.6
+Place --> 9km NE of Fairbanks, Alaska
+MagType ---> ml
+Depth--> 12.5
+
+Type --> earthquake
+Time --> 2015-02-05T05:15:18.580Z
+Latitude --> 38.8378
+Longitude --> -122.828
+Mag --> 0.82
+Place --> 9km W of Cobb, California
+MagType ---> md
+Depth--> 2.6
+
+Type --> earthquake
+Time --> 2015-02-05T05:12:24.720Z
+Latitude --> 38.8263
+Longitude --> -122.853
+Mag --> 0.79
+Place --> 9km WNW of The Geysers, California
+MagType ---> md
+Depth--> 2.45
+
+Type --> earthquake
+Time --> 2015-02-05T05:12:23.470Z
+Latitude --> 37.5248
+Longitude --> -118.822
+Mag --> 1.96
+Place --> 19km SE of Mammoth Lakes, California
+MagType ---> md
+Depth--> 7.04
+
+Type --> earthquake
+Time --> 2015-02-05T05:09:21.750Z
+Latitude --> 36.7777
+Longitude --> -98.2942
+Mag --> 3.1
+Place --> 6km ENE of Cherokee, Oklahoma
+MagType ---> mb_lg
+Depth--> 5
+
+Type --> earthquake
+Time --> 2015-02-05T04:46:31.970Z
+Latitude --> 35.4907
+Longitude --> -118.302
+Mag --> 1.5
+Place --> 20km ESE of Bodfish, California
+MagType ---> ml
+Depth--> 1.64
+
+Type --> earthquake
+Time --> 2015-02-05T04:45:21.200Z
+Latitude --> 35.4928
+Longitude --> -118.304
+Mag --> 1.03
+Place --> 20km ESE of Bodfish, California
+MagType ---> ml
+Depth--> 1.71
+
+Type --> earthquake
+Time --> 2015-02-05T04:40:53.570Z
+Latitude --> 5.2204
+Longitude --> -82.6517
+Mag --> 5.7
+Place --> South of Panama
+MagType ---> mww
+Depth--> 10
+
+Type --> earthquake
+Time --> 2015-02-05T04:33:02.050Z
+Latitude --> 35.4895
+Longitude --> -118.306
+Mag --> 1.68
+Place --> 20km ESE of Bodfish, California
+MagType ---> ml
+Depth--> 2.45
+
+Type --> earthquake
+Time --> 2015-02-05T04:32:03.520Z
+Latitude --> 35.4903
+Longitude --> -118.296
+Mag --> 2.61
+Place --> 21km ESE of Bodfish, California
+MagType ---> ml
+Depth--> 0.84
+
+Type --> earthquake
+Time --> 2015-02-05T04:28:02.490Z
+Latitude --> 38.8202
+Longitude --> -122.822
+Mag --> 0.43
+Place --> 7km NW of The Geysers, California
+MagType ---> md
+Depth--> 3.11
+
+Type --> earthquake
+Time --> 2015-02-05T04:27:42.000Z
+Latitude --> 63.4903
+Longitude --> -150.953
+Mag --> 1.2
+Place --> 100km W of Cantwell, Alaska
+MagType ---> ml
+Depth--> 0
+
+Type --> earthquake
+Time --> 2015-02-05T04:27:22.400Z
+Latitude --> 19.2485
+Longitude --> -155.42
+Mag --> 2
+Place --> 7km NE of Pahala, Hawaii
+MagType ---> Md
+Depth--> 35.6
+
+Type --> earthquake
+Time --> 2015-02-05T04:27:07.080Z
+Latitude --> 38.8302
+Longitude --> -122.803
+Mag --> 0.14
+Place --> 6km W of Cobb, California
+MagType ---> md
+Depth--> 2.24
+
+Type --> earthquake
+Time --> 2015-02-05T04:22:39.390Z
+Latitude --> 36.6387
+Longitude --> -121.257
+Mag --> 0.76
+Place --> 21km SSE of Ridgemark, California
+MagType ---> md
+Depth--> 5.49
+
+Type --> earthquake
+Time --> 2015-02-05T04:21:48.570Z
+Latitude --> 8.2968
+Longitude --> -72.0589
+Mag --> 5.3
+Place --> 3km N of Umuquena, Venezuela
+MagType ---> mww
+Depth--> 8
+
+Type --> earthquake
+Time --> 2015-02-05T04:09:19.410Z
+Latitude --> 33.7562
+Longitude --> -117.068
+Mag --> 1.3
+Place --> 2km NNE of Green Acres, California
+MagType ---> ml
+Depth--> 17.81
+
+Type --> earthquake
+Time --> 2015-02-05T04:03:50.000Z
+Latitude --> 62.3506
+Longitude --> -149.126
+Mag --> 1.6
+Place --> 43km ENE of Y, Alaska
+MagType ---> ml
+Depth--> 36.5
+
+Type --> earthquake
+Time --> 2015-02-05T04:03:47.000Z
+Latitude --> 63.5159
+Longitude --> -151.079
+Mag --> 1.6
+Place --> 107km W of Cantwell, Alaska
+MagType ---> ml
+Depth--> 0.7
+
+Type --> earthquake
+Time --> 2015-02-05T03:56:28.850Z
+Latitude --> 36.7988
+Longitude --> -98.3617
+Mag --> 2.9
+Place --> 4km N of Cherokee, Oklahoma
+MagType ---> mb_lg
+Depth--> 7
+
+Type --> earthquake
+Time --> 2015-02-05T03:52:57.150Z
+Latitude --> 38.8122
+Longitude --> -122.743
+Mag --> 0.8
+Place --> 2km WSW of Cobb, California
+MagType ---> md
+Depth--> 2.92
+
+Type --> earthquake
+Time --> 2015-02-05T03:40:31.700Z
+Latitude --> 19.002
+Longitude --> -64.4564
+Mag --> 2.7
+Place --> 66km NNE of Road Town, British Virgin Islands
+MagType ---> Md
+Depth--> 58
+
+Type --> earthquake
+Time --> 2015-02-05T03:30:06.660Z
+Latitude --> 36.0157
+Longitude --> -117.801
+Mag --> 1.05
+Place --> 13km NE of Little Lake, California
+MagType ---> ml
+Depth--> 1.1
+
+Type --> earthquake
+Time --> 2015-02-05T03:29:37.600Z
+Latitude --> 17.7786
+Longitude --> -66.749
+Mag --> 2
+Place --> 24km SSE of Indios, Puerto Rico
+MagType ---> Md
+Depth--> 10
+
+Type --> earthquake
+Time --> 2015-02-05T03:29:12.980Z
+Latitude --> 36.0165
+Longitude --> -117.805
+Mag --> 1.71
+Place --> 13km NE of Little Lake, California
+MagType ---> ml
+Depth--> 1.1
+
+Type --> earthquake
+Time --> 2015-02-05T03:27:34.300Z
+Latitude --> 19.3807
+Longitude --> -155.281
+Mag --> 2.2
+Place --> 7km SW of Volcano, Hawaii
+MagType ---> Md
+Depth--> 2.6
+
+Type --> earthquake
+Time --> 2015-02-05T03:26:27.800Z
+Latitude --> 19.3838
+Longitude --> -155.279
+Mag --> 3.4
+Place --> 6km SW of Volcano, Hawaii
+MagType ---> Ml
+Depth--> 2.5
+
+Type --> earthquake
+Time --> 2015-02-05T03:25:47.200Z
+Latitude --> 19.3835
+Longitude --> -155.281
+Mag --> 1.8
+Place --> 6km SW of Volcano, Hawaii
+MagType ---> Ml
+Depth--> 2.4
+
+Type --> earthquake
+Time --> 2015-02-05T03:19:52.360Z
+Latitude --> 36.0167
+Longitude --> -117.803
+Mag --> 1.13
+Place --> 13km NE of Little Lake, California
+MagType ---> ml
+Depth--> 0.03
+
+Type --> earthquake
+Time --> 2015-02-05T03:17:34.400Z
+Latitude --> 19.0727
+Longitude --> -67.9089
+Mag --> 3
+Place --> 75km NE of Punta Cana, Dominican Republic
+MagType ---> Md
+Depth--> 24
+
+Type --> earthquake
+Time --> 2015-02-05T03:04:50.990Z
+Latitude --> 35.7584
+Longitude --> -97.3335
+Mag --> 2.3
+Place --> 15km SSE of Guthrie, Oklahoma
+MagType ---> mb_lg
+Depth--> 11.57
+
+Type --> earthquake
+Time --> 2015-02-05T03:02:17.930Z
+Latitude --> 38.837
+Longitude --> -122.839
+Mag --> 1.67
+Place --> 9km NW of The Geysers, California
+MagType ---> md
+Depth--> 2.57
+
+Type --> earthquake
+Time --> 2015-02-05T02:41:45.600Z
+Latitude --> 19.0643
+Longitude --> -67.8246
+Mag --> 3.3
+Place --> 81km NE of Punta Cana, Dominican Republic
+MagType ---> Md
+Depth--> 29
+
+Type --> earthquake
+Time --> 2015-02-05T02:40:44.500Z
+Latitude --> 37.5655
+Longitude --> -118.862
+Mag --> 0.8
+Place --> 13km SE of Mammoth Lakes, California
+MagType ---> md
+Depth--> 6.75
+
+Type --> earthquake
+Time --> 2015-02-05T02:32:35.877Z
+Latitude --> 41.867
+Longitude --> -119.633
+Mag --> 1.35
+Place --> 69km ESE of Lakeview, Oregon
+MagType ---> ml
+Depth--> 8.1888
+
+Type --> earthquake
+Time --> 2015-02-05T02:25:15.370Z
+Latitude --> 36.0133
+Longitude --> -117.804
+Mag --> 1.09
+Place --> 13km NE of Little Lake, California
+MagType ---> ml
+Depth--> 1.88
+
+Type --> earthquake
+Time --> 2015-02-05T02:17:10.300Z
+Latitude --> 19.096
+Longitude --> -67.7938
+Mag --> 3.4
+Place --> 85km NE of Punta Cana, Dominican Republic
+MagType ---> Md
+Depth--> 29
+
+Type --> earthquake
+Time --> 2015-02-05T02:08:42.000Z
+Latitude --> 61.1223
+Longitude --> -146.902
+Mag --> 1.3
+Place --> 29km W of Valdez, Alaska
+MagType ---> ml
+Depth--> 15.5
+
+Type --> earthquake
+Time --> 2015-02-05T02:00:18.020Z
+Latitude --> 38.8162
+Longitude --> -122.823
+Mag --> 0.39
+Place --> 7km NW of The Geysers, California
+MagType ---> md
+Depth--> 3.44
+
+Type --> earthquake
+Time --> 2015-02-05T01:49:47.760Z
+Latitude --> 38.8295
+Longitude --> -122.803
+Mag --> 0.88
+Place --> 6km W of Cobb, California
+MagType ---> md
+Depth--> 2.35
+
+Type --> earthquake
+Time --> 2015-02-05T01:47:29.000Z
+Latitude --> 33.6018
+Longitude --> -116.564
+Mag --> 0.83
+Place --> 11km ENE of Anza, California
+MagType ---> ml
+Depth--> 12.23
+
+Type --> earthquake
+Time --> 2015-02-05T01:46:21.000Z
+Latitude --> 61.6884
+Longitude --> -150.333
+Mag --> 1.1
+Place --> 16km WSW of Willow, Alaska
+MagType ---> ml
+Depth--> 11.8
+
+Type --> earthquake
+Time --> 2015-02-05T01:45:02.040Z
+Latitude --> 38.8222
+Longitude --> -122.766
+Mag --> 0.22
+Place --> 3km W of Cobb, California
+MagType ---> md
+Depth--> 2.68
+
+Type --> earthquake
+Time --> 2015-02-05T01:42:03.000Z
+Latitude --> 65.0044
+Longitude --> -147.334
+Mag --> 1.3
+Place --> 24km NNE of Badger, Alaska
+MagType ---> ml
+Depth--> 7.6
+
+Type --> earthquake
+Time --> 2015-02-05T01:36:01.790Z
+Latitude --> 36.8606
+Longitude --> -97.8437
+Mag --> 3.2
+Place --> 11km WNW of Medford, Oklahoma
+MagType ---> mb_lg
+Depth--> 3.47
+
+Type --> earthquake
+Time --> 2015-02-05T01:32:54.000Z
+Latitude --> 62.3802
+Longitude --> -151.09
+Mag --> 1.3
+Place --> 51km W of Talkeetna, Alaska
+MagType ---> ml
+Depth--> 80.7
+
+Type --> earthquake
+Time --> 2015-02-05T01:31:41.030Z
+Latitude --> 38.8227
+Longitude --> -122.843
+Mag --> 0.86
+Place --> 9km NW of The Geysers, California
+MagType ---> md
+Depth--> 2.22
+
+Type --> earthquake
+Time --> 2015-02-05T01:26:25.000Z
+Latitude --> 62.8986
+Longitude --> -150.624
+Mag --> 1.3
+Place --> 69km NNW of Talkeetna, Alaska
+MagType ---> ml
+Depth--> 113.4
+
+Type --> earthquake
+Time --> 2015-02-05T01:05:38.000Z
+Latitude --> 59.5809
+Longitude --> -152.886
+Mag --> 2.1
+Place --> 63km WSW of Anchor Point, Alaska
+MagType ---> ml
+Depth--> 97.4
+
+Type --> earthquake
+Time --> 2015-02-05T01:04:23.000Z
+Latitude --> 63.0768
+Longitude --> -151.423
+Mag --> 1.8
+Place --> 107km NW of Talkeetna, Alaska
+MagType ---> ml
+Depth--> 0.3
+
+Type --> earthquake
+Time --> 2015-02-05T01:01:46.700Z
+Latitude --> 34.9292
+Longitude --> -118.99
+Mag --> 0.96
+Place --> 6km WSW of Grapevine, California
+MagType ---> ml
+Depth--> 6.15
+
+Type --> earthquake
+Time --> 2015-02-05T00:58:58.750Z
+Latitude --> 35.9638
+Longitude --> -120.513
+Mag --> 0.65
+Place --> 23km SW of Coalinga, California
+MagType ---> md
+Depth--> 2.95
+
+Type --> earthquake
+Time --> 2015-02-05T00:46:06.430Z
+Latitude --> 38.8222
+Longitude --> -122.843
+Mag --> 1.08
+Place --> 9km WNW of The Geysers, California
+MagType ---> md
+Depth--> 2.64
+
+Type --> earthquake
+Time --> 2015-02-05T00:34:04.100Z
+Latitude --> 33.556
+Longitude --> -116.627
+Mag --> 0.47
+Place --> 4km E of Anza, California
+MagType ---> ml
+Depth--> 17.02
+
+Type --> earthquake
+Time --> 2015-02-05T00:26:58.950Z
+Latitude --> 33.161
+Longitude --> -116.044
+Mag --> 1.08
+Place --> 8km ENE of Ocotillo Wells, California
+MagType ---> ml
+Depth--> 1.16
+
+Type --> earthquake
+Time --> 2015-02-05T00:25:13.490Z
+Latitude --> 35.9625
+Longitude --> -120.515
+Mag --> 1.1
+Place --> 24km SW of Coalinga, California
+MagType ---> md
+Depth--> 2.74
+
+Type --> earthquake
+Time --> 2015-02-05T00:18:47.970Z
+Latitude --> 34.2367
+Longitude --> -117.477
+Mag --> 1.68
+Place --> 3km SE of Lytle Creek, California
+MagType ---> ml
+Depth--> 12.6
+
+Type --> earthquake
+Time --> 2015-02-05T00:16:15.580Z
+Latitude --> 37.5437
+Longitude --> -118.877
+Mag --> 0.7
+Place --> 14km SE of Mammoth Lakes, California
+MagType ---> md
+Depth--> 8.43
+
+Type --> earthquake
+Time --> 2015-02-04T23:50:46.470Z
+Latitude --> 33.9693
+Longitude --> -116.9
+Mag --> 0.72
+Place --> 5km NNW of Banning, California
+MagType ---> ml
+Depth--> 4.54
+
+Type --> earthquake
+Time --> 2015-02-04T23:49:26.950Z
+Latitude --> 34.019
+Longitude --> -116.445
+Mag --> 0.95
+Place --> 8km NE of Desert Hot Springs, California
+MagType ---> ml
+Depth--> 0.8
+
+Type --> earthquake
+Time --> 2015-02-04T23:41:06.650Z
+Latitude --> 34.0195
+Longitude --> -116.442
+Mag --> 1.41
+Place --> 8km NE of Desert Hot Springs, California
+MagType ---> ml
+Depth--> 1.1
+
+Type --> earthquake
+Time --> 2015-02-04T23:40:26.110Z
+Latitude --> 34.0208
+Longitude --> -116.441
+Mag --> 1.27
+Place --> 9km NE of Desert Hot Springs, California
+MagType ---> ml
+Depth--> 1.1
+
+Type --> earthquake
+Time --> 2015-02-04T23:38:52.330Z
+Latitude --> 37.1195
+Longitude --> -121.533
+Mag --> 0.91
+Place --> 7km ENE of San Martin, California
+MagType ---> md
+Depth--> 3.07
+
+Type --> earthquake
+Time --> 2015-02-04T23:37:43.780Z
+Latitude --> 37.4257
+Longitude --> -118.61
+Mag --> 1.32
+Place --> 15km WNW of West Bishop, California
+MagType ---> md
+Depth--> 15.79
+
+Type --> earthquake
+Time --> 2015-02-04T23:25:14.000Z
+Latitude --> 61.6469
+Longitude --> -147.697
+Mag --> 2.4
+Place --> 63km ESE of Sutton-Alpine, Alaska
+MagType ---> ml
+Depth--> 12.5
+
+Type --> earthquake
+Time --> 2015-02-04T23:23:20.410Z
+Latitude --> 35.4453
+Longitude --> -120.735
+Mag --> 0.93
+Place --> 7km SW of Atascadero, California
+MagType ---> md
+Depth--> 5.59
+
+Type --> earthquake
+Time --> 2015-02-04T23:00:58.020Z
+Latitude --> 34.025
+Longitude --> -116.447
+Mag --> 0.89
+Place --> 9km NE of Desert Hot Springs, California
+MagType ---> ml
+Depth--> 1.1
+
+Type --> earthquake
+Time --> 2015-02-04T22:48:16.750Z
+Latitude --> 36.5302
+Longitude --> -121.08
+Mag --> 1.18
+Place --> 24km ENE of Soledad, California
+MagType ---> md
+Depth--> 9.68
+
+Type --> earthquake
+Time --> 2015-02-04T22:42:13.000Z
+Latitude --> 63.5949
+Longitude --> -153.11
+Mag --> 1.6
+Place --> 143km ENE of McGrath, Alaska
+MagType ---> ml
+Depth--> 38.2
+
+Type --> earthquake
+Time --> 2015-02-04T21:55:19.470Z
+Latitude --> 38.8278
+Longitude --> -122.802
+Mag --> 0.82
+Place --> 6km W of Cobb, California
+MagType ---> md
+Depth--> 2.48
+
+Type --> earthquake
+Time --> 2015-02-04T21:28:25.000Z
+Latitude --> 19.055
+Longitude --> -67.794
+Mag --> 3
+Place --> 82km NE of Punta Cana, Dominican Republic
+MagType ---> Md
+Depth--> 11
+
+Type --> earthquake
+Time --> 2015-02-04T21:23:46.000Z
+Latitude --> 61.4048
+Longitude --> -150.783
+Mag --> 1.3
+Place --> 46km WSW of Big Lake, Alaska
+MagType ---> ml
+Depth--> 68.8
+
+Type --> earthquake
+Time --> 2015-02-04T21:23:13.000Z
+Latitude --> 60.285
+Longitude --> -142.946
+Mag --> 0.5
+Place --> 37km NW of Cape Yakataga, Alaska
+MagType ---> ml
+Depth--> 19.5
+
+Type --> earthquake
+Time --> 2015-02-04T21:04:25.000Z
+Latitude --> 65.038
+Longitude --> -147.325
+Mag --> 1.7
+Place --> 28km NE of Fairbanks, Alaska
+MagType ---> ml
+Depth--> 0.7
+
+Type --> earthquake
+Time --> 2015-02-04T20:55:06.660Z
+Latitude --> 34.225
+Longitude --> -116.757
+Mag --> 0.94
+Place --> 9km ESE of Big Bear City, California
+MagType ---> ml
+Depth--> 13.61
+
+Type --> earthquake
+Time --> 2015-02-04T20:54:42.870Z
+Latitude --> 37.4898
+Longitude --> -118.845
+Mag --> 0.86
+Place --> 20km SSE of Mammoth Lakes, California
+MagType ---> md
+Depth--> 8.57
+
+Type --> earthquake
+Time --> 2015-02-04T20:42:16.890Z
+Latitude --> 36.7722
+Longitude --> -121.283
+Mag --> 1.28
+Place --> 8km ESE of Ridgemark, California
+MagType ---> md
+Depth--> 8.23
+
+Type --> earthquake
+Time --> 2015-02-04T20:33:20.000Z
+Latitude --> 63.9518
+Longitude --> -148.879
+Mag --> 2
+Place --> 11km NNE of Healy, Alaska
+MagType ---> ml
+Depth--> 0.1
+
+Type --> earthquake
+Time --> 2015-02-04T20:33:13.970Z
+Latitude --> 38.8242
+Longitude --> -122.766
+Mag --> 0.55
+Place --> 3km W of Cobb, California
+MagType ---> md
+Depth--> 2.77
+
+Type --> earthquake
+Time --> 2015-02-04T20:31:40.400Z
+Latitude --> 36.2447
+Longitude --> -118.414
+Mag --> 1.31
+Place --> 37km W of Olancha, California
+MagType ---> ml
+Depth--> 9.33
+
+Type --> earthquake
+Time --> 2015-02-04T20:30:41.000Z
+Latitude --> 64.5757
+Longitude --> -150.344
+Mag --> 1.9
+Place --> 49km SSE of Manley Hot Springs, Alaska
+MagType ---> ml
+Depth--> 6.3
+
+Type --> earthquake
+Time --> 2015-02-04T20:28:39.593Z
+Latitude --> 39.0627
+Longitude --> -119.689
+Mag --> 0.65
+Place --> 3km ENE of Johnson Lane, Nevada
+MagType ---> ml
+Depth--> 10.1459
+
+Type --> earthquake
+Time --> 2015-02-04T20:27:50.760Z
+Latitude --> -24.1201
+Longitude --> -67.1275
+Mag --> 4.3
+Place --> 82km W of San Antonio de los Cobres, Argentina
+MagType ---> mb
+Depth--> 198.33
+
+Type --> earthquake
+Time --> 2015-02-04T20:27:48.085Z
+Latitude --> 39.0557
+Longitude --> -119.68
+Mag --> 0.96
+Place --> 3km ENE of Johnson Lane, Nevada
+MagType ---> ml
+Depth--> 8.9131
+
+Type --> earthquake
+Time --> 2015-02-04T20:17:04.640Z
+Latitude --> 39.0498
+Longitude --> -123.083
+Mag --> 1.7
+Place --> 11km SE of Talmage, California
+MagType ---> md
+Depth--> 3.32
+
+Type --> earthquake
+Time --> 2015-02-04T20:11:53.000Z
+Latitude --> 64.7708
+Longitude --> -148.889
+Mag --> 1.6
+Place --> 23km NNE of North Nenana, Alaska
+MagType ---> ml
+Depth--> 17.7
+
+Type --> earthquake
+Time --> 2015-02-04T20:07:29.800Z
+Latitude --> 33.6178
+Longitude --> -116.677
+Mag --> 0.16
+Place --> 7km N of Anza, California
+MagType ---> ml
+Depth--> 13.98
+
+Type --> earthquake
+Time --> 2015-02-04T20:07:28.000Z
+Latitude --> 63.5438
+Longitude --> -147.355
+Mag --> 1.6
+Place --> 81km ENE of Cantwell, Alaska
+MagType ---> ml
+Depth--> 0.1
+
+Type --> earthquake
+Time --> 2015-02-04T19:58:35.000Z
+Latitude --> 62.5869
+Longitude --> -148.121
+Mag --> 0.3
+Place --> 95km NNE of Sutton-Alpine, Alaska
+MagType ---> ml
+Depth--> 0
+
+Type --> earthquake
+Time --> 2015-02-04T19:52:34.000Z
+Latitude --> 61.6676
+Longitude --> -151.334
+Mag --> 0.8
+Place --> 69km W of Willow, Alaska
+MagType ---> ml
+Depth--> 1
+
+Type --> earthquake
+Time --> 2015-02-04T19:48:14.010Z
+Latitude --> 33.6233
+Longitude --> -116.679
+Mag --> 0.37
+Place --> 8km N of Anza, California
+MagType ---> ml
+Depth--> 13.88
+
+Type --> earthquake
+Time --> 2015-02-04T19:32:02.220Z
+Latitude --> 52.8608
+Longitude --> 160.49
+Mag --> 4.7
+Place --> 125km E of Petropavlovsk-Kamchatskiy, Russia
+MagType ---> mb
+Depth--> 43.29
+
+Type --> earthquake
+Time --> 2015-02-04T19:17:18.960Z
+Latitude --> 39.1778
+Longitude --> -123.18
+Mag --> 2.62
+Place --> 3km NE of Ukiah, California
+MagType ---> md
+Depth--> 7.26
+
+Type --> earthquake
+Time --> 2015-02-04T19:15:34.000Z
+Latitude --> 68.1642
+Longitude --> -145.481
+Mag --> 2.6
+Place --> 4km NNE of Arctic Village, Alaska
+MagType ---> ml
+Depth--> 6.4
+
+Type --> earthquake
+Time --> 2015-02-04T19:04:00.184Z
+Latitude --> 37.1773
+Longitude --> -116.738
+Mag --> 1.39
+Place --> 29km N of Beatty, Nevada
+MagType ---> ml
+Depth--> 15.631
+
+Type --> earthquake
+Time --> 2015-02-04T18:54:28.076Z
+Latitude --> 39.3942
+Longitude --> -119.812
+Mag --> 0.67
+Place --> 15km S of Reno, Nevada
+MagType ---> ml
+Depth--> 4.5536
+
+Type --> earthquake
+Time --> 2015-02-04T18:49:47.200Z
+Latitude --> 36.6061
+Longitude --> -98.4374
+Mag --> 2.6
+Place --> 16km WNW of Helena, Oklahoma
+MagType ---> ml
+Depth--> 4.257
+
+Type --> earthquake
+Time --> 2015-02-04T18:20:48.040Z
+Latitude --> 36.814
+Longitude --> -98.289
+Mag --> 3.2
+Place --> 8km NE of Cherokee, Oklahoma
+MagType ---> ml
+Depth--> 4.6
+
+Type --> earthquake
+Time --> 2015-02-04T18:20:14.140Z
+Latitude --> 38.8325
+Longitude --> -122.81
+Mag --> 0.38
+Place --> 7km W of Cobb, California
+MagType ---> md
+Depth--> 1.35
+
+Type --> earthquake
+Time --> 2015-02-04T18:05:03.060Z
+Latitude --> 38.823
+Longitude --> -122.793
+Mag --> 1.38
+Place --> 5km NNW of The Geysers, California
+MagType ---> md
+Depth--> 3.2
+
+Type --> earthquake
+Time --> 2015-02-04T18:00:48.660Z
+Latitude --> 38.8057
+Longitude --> -122.819
+Mag --> 0.31
+Place --> 6km WNW of The Geysers, California
+MagType ---> md
+Depth--> 3.76
+
+Type --> earthquake
+Time --> 2015-02-04T17:47:37.840Z
+Latitude --> 37.5493
+Longitude --> -118.802
+Mag --> 1.08
+Place --> 18km SE of Mammoth Lakes, California
+MagType ---> md
+Depth--> 11.2
+
+Type --> earthquake
+Time --> 2015-02-04T17:43:35.420Z
+Latitude --> 35.682
+Longitude --> -97.128
+Mag --> 2.5
+Place --> 6km ENE of Luther, Oklahoma
+MagType ---> ml
+Depth--> 5.5
+
+Type --> earthquake
+Time --> 2015-02-04T17:41:43.910Z
+Latitude --> -0.1641
+Longitude --> 124.987
+Mag --> 5.2
+Place --> 117km SE of Modayag, Indonesia
+MagType ---> mb
+Depth--> 48.51
+
+Type --> earthquake
+Time --> 2015-02-04T17:33:38.540Z
+Latitude --> 38.7622
+Longitude --> -122.725
+Mag --> 1.17
+Place --> 3km ESE of The Geysers, California
+MagType ---> md
+Depth--> 1.9
+
+Type --> earthquake
+Time --> 2015-02-04T17:24:44.630Z
+Latitude --> 37.6575
+Longitude --> -118.87
+Mag --> 0.24
+Place --> 9km E of Mammoth Lakes, California
+MagType ---> md
+Depth--> 4.06
+
+Type --> earthquake
+Time --> 2015-02-04T17:24:37.000Z
+Latitude --> 38.8227
+Longitude --> -122.763
+Mag --> 0.99
+Place --> 3km W of Cobb, California
+MagType ---> md
+Depth--> 2.67
+
+Type --> earthquake
+Time --> 2015-02-04T17:24:32.490Z
+Latitude --> 38.8205
+Longitude --> -122.765
+Mag --> 1.13
+Place --> 3km W of Cobb, California
+MagType ---> md
+Depth--> 2.72
+
+Type --> earthquake
+Time --> 2015-02-04T17:13:38.020Z
+Latitude --> 38.8063
+Longitude --> -122.815
+Mag --> 0.55
+Place --> 6km WNW of The Geysers, California
+MagType ---> md
+Depth--> 3.49
+
+Type --> earthquake
+Time --> 2015-02-04T16:50:37.540Z
+Latitude --> 38.8168
+Longitude --> -122.748
+Mag --> 0.82
+Place --> 2km WSW of Cobb, California
+MagType ---> md
+Depth--> 7.27
+
+Type --> earthquake
+Time --> 2015-02-04T16:25:40.200Z
+Latitude --> 37.5482
+Longitude --> -118.879
+Mag --> 0.36
+Place --> 13km SE of Mammoth Lakes, California
+MagType ---> md
+Depth--> 8.21
+
+Type --> earthquake
+Time --> 2015-02-04T16:25:38.440Z
+Latitude --> 38.826
+Longitude --> -122.829
+Mag --> 0.14
+Place --> 8km NW of The Geysers, California
+MagType ---> md
+Depth--> 3.15
+
+Type --> earthquake
+Time --> 2015-02-04T16:25:02.350Z
+Latitude --> 37.6583
+Longitude --> -118.875
+Mag --> 0.29
+Place --> 8km E of Mammoth Lakes, California
+MagType ---> md
+Depth--> 4.01
+
+Type --> earthquake
+Time --> 2015-02-04T16:15:42.060Z
+Latitude --> -23.7461
+Longitude --> -179.723
+Mag --> 4.6
+Place --> South of the Fiji Islands
+MagType ---> mb
+Depth--> 516.26
+
+Type --> earthquake
+Time --> 2015-02-04T16:14:10.190Z
+Latitude --> -6.3293
+Longitude --> 146.825
+Mag --> 4.5
+Place --> 46km NNW of Lae, Papua New Guinea
+MagType ---> mb
+Depth--> 73.88
+
+Type --> earthquake
+Time --> 2015-02-04T16:11:33.588Z
+Latitude --> 37.3204
+Longitude --> -117.707
+Mag --> 1.43
+Place --> 54km ENE of Big Pine, California
+MagType ---> ml
+Depth--> 7.0562
+
+Type --> earthquake
+Time --> 2015-02-04T16:09:45.930Z
+Latitude --> 41.7967
+Longitude --> -112.804
+Mag --> 2.04
+Place --> 43km E of Park Valley, Utah
+MagType ---> ml
+Depth--> 5.19
+
+Type --> earthquake
+Time --> 2015-02-04T16:04:49.400Z
+Latitude --> 19.3615
+Longitude --> -155.309
+Mag --> 1.5
+Place --> 10km SW of Volcano, Hawaii
+MagType ---> Md
+Depth--> 30.7
+
+Type --> earthquake
+Time --> 2015-02-04T15:55:13.830Z
+Latitude --> 37.6577
+Longitude --> -118.873
+Mag --> 1
+Place --> 8km E of Mammoth Lakes, California
+MagType ---> md
+Depth--> 4.78
+
+Type --> earthquake
+Time --> 2015-02-04T15:45:21.000Z
+Latitude --> 61.9595
+Longitude --> -152.01
+Mag --> 1.7
+Place --> 106km WNW of Willow, Alaska
+MagType ---> ml
+Depth--> 51.3
+
+Type --> earthquake
+Time --> 2015-02-04T15:43:52.774Z
+Latitude --> 39.6139
+Longitude --> -119.915
+Mag --> 0.24
+Place --> 6km WSW of Lemmon Valley, Nevada
+MagType ---> ml
+Depth--> 9.1918
+
+Type --> earthquake
+Time --> 2015-02-04T15:41:31.010Z
+Latitude --> 46.0525
+Longitude --> -122.171
+Mag --> 0.89
+Place --> 26km NE of Amboy, Washington
+MagType ---> md
+Depth--> 10.14
+
+Type --> earthquake
+Time --> 2015-02-04T15:37:01.460Z
+Latitude --> 47.7752
+Longitude --> -122.83
+Mag --> 0.41
+Place --> 13km WSW of Lofall, Washington
+MagType ---> md
+Depth--> 11.97
+
+Type --> earthquake
+Time --> 2015-02-04T15:32:31.650Z
+Latitude --> 37.635
+Longitude --> -118.881
+Mag --> 0.2
+Place --> 8km E of Mammoth Lakes, California
+MagType ---> md
+Depth--> 8.64
+
+Type --> earthquake
+Time --> 2015-02-04T15:31:15.000Z
+Latitude --> 64.7135
+Longitude --> -148.315
+Mag --> 0.4
+Place --> 20km SW of Ester, Alaska
+MagType ---> ml
+Depth--> 27.9
+
+Type --> earthquake
+Time --> 2015-02-04T15:30:06.777Z
+Latitude --> 41.855
+Longitude --> -119.643
+Mag --> 1.68
+Place --> 73km SE of Lakeview, Oregon
+MagType ---> ml
+Depth--> 7.7521
+
+Type --> earthquake
+Time --> 2015-02-04T15:28:19.830Z
+Latitude --> 33.603
+Longitude --> -116.811
+Mag --> 0.79
+Place --> 14km WNW of Anza, California
+MagType ---> ml
+Depth--> 9.97
+
+Type --> earthquake
+Time --> 2015-02-04T15:24:48.212Z
+Latitude --> 41.8643
+Longitude --> -119.642
+Mag --> 1.75
+Place --> 73km SE of Lakeview, Oregon
+MagType ---> ml
+Depth--> 9.1969
+
+Type --> earthquake
+Time --> 2015-02-04T15:24:41.182Z
+Latitude --> 36.2591
+Longitude --> -116.427
+Mag --> 0.91
+Place --> 40km W of Pahrump, Nevada
+MagType ---> ml
+Depth--> 5.5766
+
+Type --> earthquake
+Time --> 2015-02-04T15:24:34.580Z
+Latitude --> 38.8108
+Longitude --> -122.814
+Mag --> 0.19
+Place --> 6km NW of The Geysers, California
+MagType ---> md
+Depth--> 3.23
+
+Type --> earthquake
+Time --> 2015-02-04T15:20:55.100Z
+Latitude --> 36.311
+Longitude --> -98.1639
+Mag --> 3.1
+Place --> 24km W of Waukomis, Oklahoma
+MagType ---> ml
+Depth--> 7.446
+
+Type --> earthquake
+Time --> 2015-02-04T15:05:24.200Z
+Latitude --> 38.8165
+Longitude --> -122.772
+Mag --> 1.04
+Place --> 4km W of Cobb, California
+MagType ---> md
+Depth--> 3.05
+
+Type --> earthquake
+Time --> 2015-02-04T15:04:16.000Z
+Latitude --> 64.4266
+Longitude --> -146.571
+Mag --> 1.4
+Place --> 19km SE of Salcha, Alaska
+MagType ---> ml
+Depth--> 12
+
+Type --> earthquake
+Time --> 2015-02-04T14:56:13.000Z
+Latitude --> 60.2236
+Longitude --> -141.344
+Mag --> 1.4
+Place --> 62km ENE of Cape Yakataga, Alaska
+MagType ---> ml
+Depth--> 0
+
+Type --> earthquake
+Time --> 2015-02-04T14:55:07.570Z
+Latitude --> 36.0137
+Longitude --> -117.61
+Mag --> 1.03
+Place --> 28km ENE of Little Lake, California
+MagType ---> ml
+Depth--> 1.1
+
+Type --> earthquake
+Time --> 2015-02-04T14:48:21.090Z
+Latitude --> 38.834
+Longitude --> -122.797
+Mag --> 0.88
+Place --> 6km WNW of Cobb, California
+MagType ---> md
+Depth--> 2.58
+
+Type --> earthquake
+Time --> 2015-02-04T14:44:33.740Z
+Latitude --> 33.3545
+Longitude --> -116.939
+Mag --> 0.65
+Place --> 7km W of Palomar Observatory, California
+MagType ---> ml
+Depth--> 5.69
+
+Type --> earthquake
+Time --> 2015-02-04T14:43:01.700Z
+Latitude --> 19.3262
+Longitude --> -155.016
+Mag --> 1.4
+Place --> 18km SSW of Leilani Estates, Hawaii
+MagType ---> Md
+Depth--> 1.5
+
+Type --> earthquake
+Time --> 2015-02-04T14:36:56.000Z
+Latitude --> 63.188
+Longitude --> -149.339
+Mag --> 0.3
+Place --> 29km SW of Cantwell, Alaska
+MagType ---> ml
+Depth--> 7.4
+
+Type --> earthquake
+Time --> 2015-02-04T14:23:27.000Z
+Latitude --> 61.6848
+Longitude --> -150.32
+Mag --> 1.2
+Place --> 16km WSW of Willow, Alaska
+MagType ---> ml
+Depth--> 0.1
+
+Type --> earthquake
+Time --> 2015-02-04T14:22:44.000Z
+Latitude --> 61.0675
+Longitude --> -149.668
+Mag --> 1.3
+Place --> 20km SE of Anchorage, Alaska
+MagType ---> ml
+Depth--> 20.6
+
+Type --> earthquake
+Time --> 2015-02-04T14:20:36.200Z
+Latitude --> 44.7598
+Longitude --> -112.773
+Mag --> 1.1
+Place --> 19km NW of Lima, Montana
+MagType ---> mc
+Depth--> 10.5
+
+Type --> earthquake
+Time --> 2015-02-04T13:57:51.000Z
+Latitude --> 60.4363
+Longitude --> -150.376
+Mag --> 2.6
+Place --> 24km ESE of Sterling, Alaska
+MagType ---> ml
+Depth--> 53.4
+
+Type --> earthquake
+Time --> 2015-02-04T13:38:54.880Z
+Latitude --> 33.0542
+Longitude --> -116.451
+Mag --> 0.94
+Place --> 14km E of Julian, California
+MagType ---> ml
+Depth--> 10.83
+
+Type --> earthquake
+Time --> 2015-02-04T13:35:08.140Z
+Latitude --> 48.2252
+Longitude --> -122.761
+Mag --> 1.08
+Place --> 5km W of Coupeville, Washington
+MagType ---> md
+Depth--> 32.39
+
+Type --> earthquake
+Time --> 2015-02-04T13:34:03.280Z
+Latitude --> 37.3512
+Longitude --> -118.538
+Mag --> 1.47
+Place --> 7km W of West Bishop, California
+MagType ---> md
+Depth--> 12.87
+
+Type --> earthquake
+Time --> 2015-02-04T13:20:31.940Z
+Latitude --> 37.1956
+Longitude --> -97.8983
+Mag --> 3.6
+Place --> 12km ENE of Anthony, Kansas
+MagType ---> mb_lg
+Depth--> 5
+
+Type --> earthquake
+Time --> 2015-02-04T13:20:19.000Z
+Latitude --> 18.3339
+Longitude --> -67.5214
+Mag --> 2.3
+Place --> 28km W of Rincon, Puerto Rico
+MagType ---> Md
+Depth--> 11
+
+Type --> earthquake
+Time --> 2015-02-04T12:56:50.930Z
+Latitude --> -6.1623
+Longitude --> 112.991
+Mag --> 4.6
+Place --> 96km NNE of Krajan Pangkah Kulon, Indonesia
+MagType ---> mb
+Depth--> 588.53
+
+Type --> earthquake
+Time --> 2015-02-04T12:47:51.900Z
+Latitude --> 19.0492
+Longitude --> -68.3154
+Mag --> 3
+Place --> 52km N of Punta Cana, Dominican Republic
+MagType ---> Md
+Depth--> 73
+
+Type --> earthquake
+Time --> 2015-02-04T12:47:02.190Z
+Latitude --> 33.6013
+Longitude --> -116.818
+Mag --> 0.49
+Place --> 14km WNW of Anza, California
+MagType ---> ml
+Depth--> 9.6
+
+Type --> earthquake
+Time --> 2015-02-04T12:44:46.632Z
+Latitude --> 39.3937
+Longitude --> -119.817
+Mag --> 0.4
+Place --> 15km S of Reno, Nevada
+MagType ---> ml
+Depth--> 5.0117
+
+Type --> earthquake
+Time --> 2015-02-04T12:39:34.200Z
+Latitude --> 38.8355
+Longitude --> -122.796
+Mag --> 1.2
+Place --> 6km WNW of Cobb, California
+MagType ---> md
+Depth--> 2.61
+
+Type --> earthquake
+Time --> 2015-02-04T12:35:37.350Z
+Latitude --> 38.8132
+Longitude --> -122.824
+Mag --> 0.82
+Place --> 7km NW of The Geysers, California
+MagType ---> md
+Depth--> 2.69
+
+Type --> earthquake
+Time --> 2015-02-04T12:34:56.971Z
+Latitude --> 39.6314
+Longitude --> -119.901
+Mag --> 0.23
+Place --> 5km W of Lemmon Valley, Nevada
+MagType ---> ml
+Depth--> 5.7054
+
+Type --> earthquake
+Time --> 2015-02-04T12:34:27.600Z
+Latitude --> 19.0781
+Longitude --> -68.277
+Mag --> 3
+Place --> 56km NNE of Punta Cana, Dominican Republic
+MagType ---> Md
+Depth--> 29
+
+Type --> earthquake
+Time --> 2015-02-04T12:29:29.720Z
+Latitude --> 33.6245
+Longitude --> -116.683
+Mag --> -0.09
+Place --> 8km N of Anza, California
+MagType ---> ml
+Depth--> 14.21
+
+Type --> earthquake
+Time --> 2015-02-04T12:26:49.390Z
+Latitude --> 33.9603
+Longitude --> -116.362
+Mag --> 1.3
+Place --> 13km E of Desert Hot Springs, California
+MagType ---> ml
+Depth--> 8.55
+
+Type --> earthquake
+Time --> 2015-02-04T12:18:15.400Z
+Latitude --> 19.416
+Longitude --> -155.629
+Mag --> 1.3
+Place --> 25km E of Honaunau-Napoopoo, Hawaii
+MagType ---> Md
+Depth--> 3.2
+
+Type --> earthquake
+Time --> 2015-02-04T11:58:14.000Z
+Latitude --> 63.1514
+Longitude --> -149.536
+Mag --> 0.9
+Place --> 39km SW of Cantwell, Alaska
+MagType ---> ml
+Depth--> 65.7
+
+Type --> earthquake
+Time --> 2015-02-04T11:50:53.470Z
+Latitude --> 32.3967
+Longitude --> -115.258
+Mag --> 3.4
+Place --> 8km NW of Delta, B.C., Mexico
+MagType ---> ml
+Depth--> 7.27
+
+Type --> earthquake
+Time --> 2015-02-04T11:50:20.210Z
+Latitude --> 33.6263
+Longitude --> -116.679
+Mag --> 0.8
+Place --> 8km N of Anza, California
+MagType ---> ml
+Depth--> 13.57
+
+Type --> earthquake
+Time --> 2015-02-04T11:48:50.400Z
+Latitude --> 33.6275
+Longitude --> -116.68
+Mag --> 0.11
+Place --> 8km N of Anza, California
+MagType ---> ml
+Depth--> 15.63
+
+Type --> earthquake
+Time --> 2015-02-04T11:33:43.000Z
+Latitude --> 38.8275
+Longitude --> -122.835
+Mag --> 0.57
+Place --> 8km NW of The Geysers, California
+MagType ---> md
+Depth--> 3.6
+
+Type --> earthquake
+Time --> 2015-02-04T11:19:08.520Z
+Latitude --> 36.568
+Longitude --> -121.068
+Mag --> 1.02
+Place --> 28km NE of Soledad, California
+MagType ---> md
+Depth--> 5.76
+
+Type --> earthquake
+Time --> 2015-02-04T11:10:40.000Z
+Latitude --> 64.7351
+Longitude --> -149.072
+Mag --> 1.8
+Place --> 17km N of North Nenana, Alaska
+MagType ---> ml
+Depth--> 21.2
+
+Type --> earthquake
+Time --> 2015-02-04T10:59:28.350Z
+Latitude --> 10.6667
+Longitude --> -62.8635
+Mag --> 5.1
+Place --> 11km NNW of Yaguaraparo, Venezuela
+MagType ---> mb
+Depth--> 100.37
+
+Type --> earthquake
+Time --> 2015-02-04T10:52:47.000Z
+Latitude --> 59.285
+Longitude --> -153.168
+Mag --> 2.9
+Place --> 93km SW of Anchor Point, Alaska
+MagType ---> ml
+Depth--> 117.6
+
+Type --> earthquake
+Time --> 2015-02-04T10:51:03.810Z
+Latitude --> 37.6687
+Longitude --> -119.34
+Mag --> 0.96
+Place --> 22km ESE of Yosemite Valley, California
+MagType ---> md
+Depth--> 14.43
+
+Type --> earthquake
+Time --> 2015-02-04T10:46:56.800Z
+Latitude --> 38.8462
+Longitude --> -122.783
+Mag --> 0.33
+Place --> 5km WNW of Cobb, California
+MagType ---> md
+Depth--> 3.52
+
+Type --> earthquake
+Time --> 2015-02-04T10:44:16.920Z
+Latitude --> 32.8326
+Longitude --> 83.4345
+Mag --> 5.1
+Place --> 95km NW of Luring, China
+MagType ---> mb
+Depth--> 10
+
+Type --> earthquake
+Time --> 2015-02-04T10:34:41.000Z
+Latitude --> 60.3317
+Longitude --> -141.211
+Mag --> 1.4
+Place --> 73km ENE of Cape Yakataga, Alaska
+MagType ---> ml
+Depth--> 3.1
+
+Type --> earthquake
+Time --> 2015-02-04T10:30:35.000Z
+Latitude --> 61.6902
+Longitude --> -150.303
+Mag --> 2.2
+Place --> 15km WSW of Willow, Alaska
+MagType ---> ml
+Depth--> 0.2
+
+Type --> earthquake
+Time --> 2015-02-04T10:19:14.370Z
+Latitude --> 35.9333
+Longitude --> -90.7068
+Mag --> 2.15
+Place --> 9km ENE of Bono, Arkansas
+MagType ---> md
+Depth--> 0.64
+
+Type --> earthquake
+Time --> 2015-02-04T10:13:17.760Z
+Latitude --> 38.8323
+Longitude --> -122.809
+Mag --> 0.12
+Place --> 7km W of Cobb, California
+MagType ---> md
+Depth--> 1.45
+
